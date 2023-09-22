@@ -408,7 +408,7 @@ p.lorem_text {
 .about_section{
      width: 100%;
      float: left;
-     background-image: url(../images/about-bg.png);
+    /* background-image: url(../images/about-bg.png);*/
      height: auto;
      background-size: 100%;
      padding-bottom: 90px;
@@ -466,7 +466,7 @@ p.lorem_text {
 .service_section{
      width: 100%;
      float: left;
-     background-image: url(../images/service-bg.png);
+     background-image: url(../images/service-bg\ \(2\).png);
      height: auto;
      background-size: cover;
      background-repeat: no-repeat;
@@ -564,7 +564,7 @@ p.lorem_text {
     width: 100%;
     float: left;
     padding-top: 150px;
-    background-image: url(../images/client-bg.png);
+    /*background-image: url(../images/client-bg.png);*/
     background-size: 100%;
 
 }
@@ -637,7 +637,7 @@ p.lorem_text {
 .client_section{
      width: 100%;
      float: left;
-     background-image: url(../images/client-bg.png);
+    /* background-image: url(../images/client-bg.png);*/
      height: auto;
      background-size: cover;
      background-repeat: no-repeat;
@@ -697,7 +697,7 @@ justify-content: center;
     width: 100%;
     float: left;
     padding-bottom: 90px;
-    background-image: url(../images/contact-bg.png);
+    /*background-image: url(../images/contact-bg.png);*/
     height: auto;
     background-size: 100%;
 }
